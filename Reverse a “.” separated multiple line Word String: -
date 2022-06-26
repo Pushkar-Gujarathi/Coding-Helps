@@ -1,0 +1,24 @@
+******1)Reverse a “.” separated multiple line Word String: -*********
+
+
+Reverse the “.” multi-line word string and return output.
+Input: - Ask for how many lines user want to reverse 
+		Take input for user 
+Output: - Rearrange the String in reverse order.
+
+Example: -
+Input: - 2
+		i.like.this.Program.Very.much
+		thank.you
+Output: - much.Very.Program.this.like.i
+		you.thank
+
+
+For Code Visite : - https://youtu.be/4ZDqG527SFw
+
+
+
+
+
+
+
